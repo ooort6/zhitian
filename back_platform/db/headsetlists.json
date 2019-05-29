@@ -1,0 +1,825 @@
+[
+  {
+    "main_id": 11,
+    "productName": "魅族 HALO 激光蓝牙耳机",
+    "price": 499,
+    "status": 0,
+    "productDesc": "夜跑神器 随性张扬",
+    "homeUrl": "https://openfile.meizu.com/group1/M00/04/17/Cgbj0VrcX6yABHxPAARZwWUAjc4748.png@480x480.jpg",
+    "product_details": [
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/04/17/Cgbj0VrcX6yABHxPAARZwWUAjc4748.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/04/17/Cgbj0VrcX6yABHxPAARZwWUAjc4748.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/04/16/Cgbj0VrcX6OAAW6lAAPIqwaY3Yk458.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/04/16/Cgbj0VrcX6OAAW6lAAPIqwaY3Yk458.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/06/E1/Cgbj0VwA5jCAVNq3AARxYwtsFeI008.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/06/E1/Cgbj0VwA5jCAVNq3AARxYwtsFeI008.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/06/D1/Cgbj0FwA5K6AdeU_AAorDn3t-Vs866.jpg680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/06/D1/Cgbj0FwA5K6AdeU_AAorDn3t-Vs866.jpg120x120.jpg"
+      }
+    ],
+    "product_Type": [
+      {
+        "n_Id": 1,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 2,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 3,
+        "n_value": "HALO"
+      },
+      {
+        "n_Id": 4,
+        "n_value": "POP"
+      },
+      {
+        "n_Id": 5,
+        "n_value": "EP52 Lite"
+      }
+    ],
+    "serviceDesc": [
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/6F/Cgbj0Vr-fIaAEwvKAA2Hox1ukAk217.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/6F/Cgbj0Vr-fIaAPnBBAAHCsWOb6Po652.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/60/Cgbj0Fr-fIaAb_tnAAVicXtTsn0383.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/60/Cgbj0Fr-fIiAMx_xAAMSfswt15c710.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/6F/Cgbj0Vr-fIqAfqLpAAGgT0Z4OAM517.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/60/Cgbj0Fr-fIuAB54lAAO2FY6gduA682.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/6F/Cgbj0Vr-fIuAU_X7AAiWC7n4rq0987.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/60/Cgbj0Fr-fIuAb69bAALYLQgxD_Y151.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/6F/Cgbj0Vr-fI2ASX6wAAaa3_wskMc580.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/60/Cgbj0Fr-fI6AfcCPAAu69y9JnYU498.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/68/Cgbj0FsCK9qAJtVTAAOcJEkwd3M896.jpg"
+      }
+    ]
+  },
+  {
+    "main_id": 12,
+    "productName": "POP 真无线蓝牙耳机",
+    "price": 469,
+    "status": 0,
+    "productDesc": "双无线 零设限",
+    "homeUrl": "https://openfile.meizu.com/group1/M00/05/11/Cgbj0Fsp-8yATCDFAASWKnb1fdQ339.png@480x480.jpg",
+    "product_details": [
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/05/11/Cgbj0Fsp-8yATCDFAASWKnb1fdQ339.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/05/11/Cgbj0Fsp-8yATCDFAASWKnb1fdQ339.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/04/5B/Cgbj0Fr6g3mAMv7iAAEPK93D2ss728.jpg680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/04/5B/Cgbj0Fr6g3mAMv7iAAEPK93D2ss728.jpg120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/05/B2/Cgbj0Ftf0VWAFEcfAARTZSRrkgc297.jpg680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/05/B2/Cgbj0Ftf0VWAFEcfAARTZSRrkgc297.jpg120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/05/C1/Cgbj0Vtf0VaAaQBxAAn1xRRXqdw560.jpg680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/05/C1/Cgbj0Vtf0VaAaQBxAAn1xRRXqdw560.jpg120x120.jpg"
+      }
+    ],
+    "product_Type": [
+      {
+        "n_Id": 1,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 2,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 3,
+        "n_value": "HALO"
+      },
+      {
+        "n_Id": 4,
+        "n_value": "POP"
+      },
+      {
+        "n_Id": 5,
+        "n_value": "EP52 Lite"
+      }
+    ],
+    "serviceDesc": [
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/05/54/Cgbj0Fs67JuAXcMqAAJL_ZCzG3U585.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/68/Cgbj0Vr5X62AGH7DAAE_wykfUEU120.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/6D/Cgbj0Vr8ApeAdr4CAAdT_a8eaU4553.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/59/Cgbj0Fr5X6-ALs2jAAykOWckExQ850.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/68/Cgbj0Vr5X7CAK70DAADqLS_ubsA925.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/05/56/Cgbj0Vs1jyWADSBNAACWH1tg_MA505.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/59/Cgbj0Fr5X7CAT5vhAArQU_aEii0848.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/68/Cgbj0Vr5X7CAc21FAAFxXEwMhXU729.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/68/Cgbj0Vr5X7GAI9eHAAbdmLvcfvk886.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/59/Cgbj0Fr5X7GAGckBAAIO1wZo-tY384.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/68/Cgbj0Vr5X7KAf06cAAHkF4RlwW8963.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/AF/Cgbj0Fuu4KiAUS-lAAb7fFl50ds358.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/59/Cgbj0Fr5X7KAIBbtAAQz26fDi30564.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/BE/Cgbj0Vuu4KiADd7fAAJnHPmdMzk760.jpg"
+      }
+    ]
+  },
+  {
+    "main_id": 13,
+    "productName": "魅蓝 EP52 蓝牙耳机",
+    "price": 199,
+    "status": 0,
+    "productDesc": "轻盈悦耳 动无拘束",
+    "homeUrl": "https://openfile.meizu.com/group1/M00/01/D2/Cgbj0Fmb55mABV4HAAKspJD9ivQ842.png@480x480.jpg",
+    "product_details": [
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/01/D2/Cgbj0Fmb55mABV4HAAKspJD9ivQ842.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/01/D2/Cgbj0Fmb55mABV4HAAKspJD9ivQ842.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/01/D2/Cgbj0Fmb55mAAYozAADrD9V2P1k798.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/01/D2/Cgbj0Fmb55mAAYozAADrD9V2P1k798.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/01/E0/Cgbj0Vmb55mADEtFAAEhCZocsP8456.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/01/E0/Cgbj0Vmb55mADEtFAAEhCZocsP8456.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/01/E0/Cgbj0Vmb55yALEgQAAJce6x8m1A568.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/01/E0/Cgbj0Vmb55yALEgQAAJce6x8m1A568.png120x120.jpg"
+      }
+    ],
+    "product_Type": [
+      {
+        "n_Id": 1,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 2,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 3,
+        "n_value": "HALO"
+      },
+      {
+        "n_Id": 4,
+        "n_value": "POP"
+      },
+      {
+        "n_Id": 5,
+        "n_value": "EP52 Lite"
+      }
+    ],
+    "serviceDesc": [
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/12/Cgbj0Fp3vQSAFzSPAARPw6rJNz8086.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/12/Cgbj0Fp3vQWAY3T9AAO6W9GdXIg213.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/20/Cgbj0Vp3vQWAXZSZAAMPTW-sQbk336.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/20/Cgbj0Vp3vQaAfGYxAAOTdKcsyOE421.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/12/Cgbj0Fp3vQeAUbVkAAq8IWeg-kA609.jpg"
+      }
+    ]
+  },
+  {
+    "main_id": 14,
+    "productName": "魅族 EP52 Lite 蓝牙耳机",
+    "price": 129,
+    "status": 0,
+    "productDesc": "超高性价比创造无线新声代",
+    "homeUrl": "https://openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-SAO6IgAARPVTFhby0701.png@480x480.jpg",
+    "product_details": [
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-SAO6IgAARPVTFhby0701.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-SAO6IgAARPVTFhby0701.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-qAa4isAAPCiphjtvk287.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/01/D2/Cgbj0Fmb55mAAYozAADrD9V2P1k798.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/06/A7/Cgbj0Vui__GAY72EAAhHxkugXuY418.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/01/E0/Cgbj0Vmb55mADEtFAAEhCZocsP8456.png120x120.jpg"
+      }
+    ],
+    "product_Type": [
+      {
+        "n_Id": 1,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 2,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 3,
+        "n_value": "HALO"
+      },
+      {
+        "n_Id": 4,
+        "n_value": "POP"
+      },
+      {
+        "n_Id": 5,
+        "n_value": "EP52 Lite"
+      }
+    ],
+    "serviceDesc": [
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/AB/Cgbj0FutzoOAR5mtAAn7190g7HI118.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/9E/Cgbj0Vuh6HGAG5q4AAKfo6QdOro603.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/8F/Cgbj0Fuh6HGASitoAAGT52DgV60295.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/9E/Cgbj0Vuh6HKAewq7AAj2wdwJA1I978.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/9E/Cgbj0Vuh6HSAaSQEAAPVTcwl7jM211.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/8F/Cgbj0Fuh6HaAernEAA3mi3lR4sc029.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/9E/Cgbj0Vuh6HaAJJGQAASN0OPAzKw067.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/8F/Cgbj0Fuh6HeAUrAyAAhCEsqeZgM126.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/9E/Cgbj0Vuh6HeAB6IAAAD_tGS2bfw463.jpg"
+      }
+    ]
+  },
+  {
+    "main_id": 15,
+    "productName": "魅族 EP2X 耳机",
+    "price": 69,
+    "status": 0,
+    "productDesc": "契合声音的流动之美",
+    "homeUrl": "https://openfile.meizu.com/group1/M00/00/A2/Cix_s1gcTHCANftiAAErzSizI8c299.png@480x480.jpg",
+    "product_details": [
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/00/A2/Cix_s1gcTHCANftiAAErzSizI8c299.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/00/A2/Cix_s1gcTHCANftiAAErzSizI8c299.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/00/A1/CnQOjVgcTHCAXNI5AAFhUsyWVeM680.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/00/A1/CnQOjVgcTHCAXNI5AAFhUsyWVeM680.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/00/A2/Cix_s1gcTHGAB-DXAADPHff_mNQ945.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/00/A2/Cix_s1gcTHGAB-DXAADPHff_mNQ945.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/00/A1/CnQOjVgcTHKAKfk3AADagmucX-w385.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/00/A1/CnQOjVgcTHKAKfk3AADagmucX-w385.png120x120.jpg"
+      }
+    ],
+    "product_Type": [
+      {
+        "n_Id": 1,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 2,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 3,
+        "n_value": "HALO"
+      },
+      {
+        "n_Id": 4,
+        "n_value": "POP"
+      }
+    ],
+    "serviceDesc": [
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/00/A3/CnQOjVghc1aAefDkAA7hPfL6EFo988.jpg"
+      }
+    ]
+  },
+  {
+    "main_id": 16,
+    "productName": "魅族 EP51 蓝牙运动耳机",
+    "price": 129,
+    "status": 0,
+    "productDesc": "臻享音质 自在运动",
+    "homeUrl": "https://storeimg.meizu.com/product/1459849377-64075.png@480x480.jpg",
+    "product_details": [
+      {
+        "bigImg": "https://storeimg.meizu.com/product/1459849377-64075.png@680x680.jpg",
+        "smallImg": "https://storeimg.meizu.com/product/1459849377-64075.png@120x120.jpg"
+      },
+      {
+        "bigImg": "https://storeimg.meizu.com/product/1459478687-38817.png@680x680.jpg",
+        "smallImg": "https://storeimg.meizu.com/product/1459478687-38817.png@120x120.jpg"
+      },
+      {
+        "bigImg": "https://storeimg.meizu.com/product/1459478724-98939.png@680x680.jpg",
+        "smallImg": "https://storeimg.meizu.com/product/1459478724-98939.png@120x120.jpg"
+      },
+      {
+        "bigImg": "https://storeimg.meizu.com/product/1459478751-76703.png@680x680.jpg",
+        "smallImg": "https://storeimg.meizu.com/product/1459478751-76703.png@120x120.jpg"
+      }
+    ],
+    "product_Type": [
+      {
+        "n_Id": 2,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 3,
+        "n_value": "HALO"
+      },
+      {
+        "n_Id": 4,
+        "n_value": "POP"
+      },
+      {
+        "n_Id": 5,
+        "n_value": "EP52 Lite"
+      }
+    ],
+    "serviceDesc": [
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/01/95/Cgbj0FlDRJKAKdqXAAxogk1xLdI150.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/01/95/Cgbj0FlDRJKAWC-DAAjkdbOJOWM591.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/01/A2/Cgbj0VlDRJKAK8POAAaCfTRvxQs264.jpg"
+      }
+    ]
+  },
+  {
+    "main_id": 17,
+    "productName": "魅族蓝牙音频接收器",
+    "price": 89,
+    "status": 0,
+    "productDesc": "独立音频芯片音质媲美有线",
+    "homeUrl": "https://openfile.meizu.com/group1/M00/06/70/Cgbj0FuZwuGADzVHAAG7wQGHkAM447.png@480x480.jpg",
+    "product_details": [
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/06/70/Cgbj0FuZwuGADzVHAAG7wQGHkAM447.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/06/70/Cgbj0FuZwuGADzVHAAG7wQGHkAM447.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/06/81/Cgbj0VuaDYiAXJf3AAGrTbJmvOU044.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/06/81/Cgbj0VuaDYiAXJf3AAGrTbJmvOU044.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/06/72/Cgbj0FuaDYiARk4UAAKBs-c37T0401.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/06/72/Cgbj0FuaDYiARk4UAAKBs-c37T0401.png120x120.jpg"
+      }
+    ],
+    "product_Type": [
+      {
+        "n_Id": 1,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 2,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 3,
+        "n_value": "HALO"
+      },
+      {
+        "n_Id": 4,
+        "n_value": "POP"
+      },
+      {
+        "n_Id": 5,
+        "n_value": "EP52 Lite"
+      }
+    ],
+    "serviceDesc": [
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/7F/Cgbj0VuZwMaAGuBGAALZFOAPxlc893.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/70/Cgbj0FuZwMaAaT16AAOMa3cyPN8112.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/7F/Cgbj0VuZwMeACz_0AAUyp_ZPJkw721.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/70/Cgbj0FuZwMmAVt4CAAI_iF9b3Ig963.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/7F/Cgbj0VuZwMmANCvHAAxiF5ooeH4595.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/70/Cgbj0FuZwMuAQW3gAAd3BcsqZYE801.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/7F/Cgbj0VuZwMuAHMZ1AAT2NGM-OfI320.jpg"
+      }
+    ]
+  },
+  {
+    "main_id": 18,
+    "productName": "魅族 MC-5N 耳机升级线",
+    "price": 399,
+    "status": 0,
+    "productDesc": "MMCX插头通用线 Live耳机升级线",
+    "homeUrl": "https://openfile.meizu.com/group1/M00/03/C9/Cgbj0VrBl16Af2alAAWkq7hK2yI025.png@480x480.jpg",
+    "product_details": [
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/03/C9/Cgbj0VrBl16Af2alAAWkq7hK2yI025.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/03/C9/Cgbj0VrBl16Af2alAAWkq7hK2yI025.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/03/C9/Cgbj0VrBl12AP4gHAAKubfdmMIQ756.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/03/C9/Cgbj0VrBl12AP4gHAAKubfdmMIQ756.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/03/BA/Cgbj0FrBl12Ad0K4AAKYVHxQGwQ549.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/03/BA/Cgbj0FrBl12Ad0K4AAKYVHxQGwQ549.png120x120.jpg"
+      }
+    ],
+    "product_Type": [
+      {
+        "n_Id": 1,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 4,
+        "n_value": "POP"
+      },
+      {
+        "n_Id": 5,
+        "n_value": "EP52 Lite"
+      }
+    ],
+    "serviceDesc": [
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/BE/Cgbj0FrDQASARTyGAAON5ZWQ3kE671.png"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/CD/Cgbj0VrDQASAOZrIAAVT0Pwmc8Q282.png"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/CC/Cgbj0FrK0a6AfyQvAAjSIHM_D3w956.png"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/CD/Cgbj0VrDQAWAWIGOAALTeUTGr9k539.png"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/CD/Cgbj0VrDQAWAWIGOAALTeUTGr9k539.png"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/BE/Cgbj0FrDQAeAHRm_AAs2htp8nDg020.png"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/CD/Cgbj0VrDQAeASWBRAAKG01LEDfA816.png"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/CC/Cgbj0FrKww6ADdh0AAB4kvOF6Ho016.png"
+      }
+    ]
+  },
+  {
+    "main_id": 19,
+    "productName": "魅族 Flow Bass 三单元耳机",
+    "price": 399,
+    "status": 0,
+    "productDesc": "延续经典，重赋新声",
+    "homeUrl": "https://openfile.meizu.com/group1/M00/02/EE/Cgbj0FpeqUqAYAbBAAJRQlEIMmc702.png@480x480.jpg",
+    "product_details": [
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/02/EE/Cgbj0FpeqUqAYAbBAAJRQlEIMmc702.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/02/EE/Cgbj0FpeqUqAYAbBAAJRQlEIMmc702.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/02/FB/Cgbj0VpeqU2APGluAAG3aLo__JM745.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/02/FB/Cgbj0VpeqU2APGluAAG3aLo__JM745.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/02/FB/Cgbj0VpeqUmAFYETAAFa6N_vvyg768.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/02/FB/Cgbj0VpeqUmAFYETAAFa6N_vvyg768.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/02/ED/Cgbj0FpeqUmAffAJAAEOvEu79dA449.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/02/ED/Cgbj0FpeqUmAffAJAAEOvEu79dA449.png120x120.jpg"
+      }
+    ],
+    "product_Type": [
+      {
+        "n_Id": 1,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 2,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 3,
+        "n_value": "HALO"
+      },
+      {
+        "n_Id": 5,
+        "n_value": "EP52 Lite"
+      }
+    ],
+    "serviceDesc": [
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/11/Cgbj0Fp0HjCARhIaAAWvTT2OT9M677.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/1F/Cgbj0Vp0HjCAUp3HAAI53-RESrU940.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/1F/Cgbj0Vp0HjGAILMYAANz7HVsDuI276.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/11/Cgbj0Fp0HjGAPYRuAAKL2gj0Z9k382.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/1F/Cgbj0Vp0HjKAK_L7AAGjYFpRg2A005.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/11/Cgbj0Fp0HjOAOzTHAAILTRX9ct8310.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/1F/Cgbj0Vp0HjSAGEvwAAF5eJWK7oI962.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/11/Cgbj0Fp0HjSANt9WAAMEPGc_TFI900.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/1F/Cgbj0Vp0HjWAFe0FAAnZI8uhnL4970.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/03/11/Cgbj0Fp0HjWAEUXFAAFEpK6WsQo167.jpg"
+      }
+    ]
+  },
+  {
+    "main_id": 20,
+    "productName": "魅族 EP-31 耳机",
+    "price": 99,
+    "status": 0,
+    "productDesc": "舒适均衡 精致优雅",
+    "homeUrl": "https://openfile.meizu.com/group1/M00/06/20/Cgbj0Ft-WkOAAhCKAAFqcNe6c3M482.png@480x480.jpg",
+    "product_details": [
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/06/20/Cgbj0Ft-WkOAAhCKAAFqcNe6c3M482.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/06/20/Cgbj0Ft-WkOAAhCKAAFqcNe6c3M482.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/06/30/Cgbj0Vt-WkOAc9wLAALWLTyolNM902.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/06/30/Cgbj0Vt-WkOAc9wLAALWLTyolNM902.png120x120.jpg"
+      }
+    ],
+    "product_Type": [
+      {
+        "n_Id": 1,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 2,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 3,
+        "n_value": "HALO"
+      },
+      {
+        "n_Id": 4,
+        "n_value": "POP"
+      },
+      {
+        "n_Id": 5,
+        "n_value": "EP52 Lite"
+      }
+    ],
+    "serviceDesc": [
+      {
+        "serImgUrl": "https://storeimg.meizu.com/product/1451892539-25367.jpg"
+      }
+    ]
+  },
+  {
+    "main_id": 21,
+    "productName": "魅族 EP52 Lite 蓝牙耳机",
+    "price": 129,
+    "status": 0,
+    "productDesc": "超高性价比创造无线新声代",
+    "homeUrl": "https://openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-SAO6IgAARPVTFhby0701.png@480x480.jpg",
+    "product_details": [
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-SAO6IgAARPVTFhby0701.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-SAO6IgAARPVTFhby0701.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/06/97/Cgbj0Fui_-qAa4isAAPCiphjtvk287.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/01/D2/Cgbj0Fmb55mAAYozAADrD9V2P1k798.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/06/A7/Cgbj0Vui__GAY72EAAhHxkugXuY418.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/01/E0/Cgbj0Vmb55mADEtFAAEhCZocsP8456.png120x120.jpg"
+      }
+    ],
+    "product_Type": [
+      {
+        "n_Id": 1,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 2,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 3,
+        "n_value": "HALO"
+      },
+      {
+        "n_Id": 4,
+        "n_value": "POP"
+      },
+      {
+        "n_Id": 5,
+        "n_value": "EP52 Lite"
+      }
+    ],
+    "serviceDesc": [
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/AB/Cgbj0FutzoOAR5mtAAn7190g7HI118.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/9E/Cgbj0Vuh6HGAG5q4AAKfo6QdOro603.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/8F/Cgbj0Fuh6HGASitoAAGT52DgV60295.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/9E/Cgbj0Vuh6HKAewq7AAj2wdwJA1I978.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/9E/Cgbj0Vuh6HSAaSQEAAPVTcwl7jM211.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/8F/Cgbj0Fuh6HaAernEAA3mi3lR4sc029.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/9E/Cgbj0Vuh6HaAJJGQAASN0OPAzKw067.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/8F/Cgbj0Fuh6HeAUrAyAAhCEsqeZgM126.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/06/9E/Cgbj0Vuh6HeAB6IAAAD_tGS2bfw463.jpg"
+      }
+    ]
+  },
+  {
+    "main_id": 22,
+    "productName": "魅族 HALO 激光蓝牙耳机",
+    "price": 499,
+    "status": 0,
+    "productDesc": "夜跑神器 随性张扬",
+    "homeUrl": "https://openfile.meizu.com/group1/M00/04/17/Cgbj0VrcX6yABHxPAARZwWUAjc4748.png@480x480.jpg",
+    "product_details": [
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/04/17/Cgbj0VrcX6yABHxPAARZwWUAjc4748.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/04/17/Cgbj0VrcX6yABHxPAARZwWUAjc4748.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/04/16/Cgbj0VrcX6OAAW6lAAPIqwaY3Yk458.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/04/16/Cgbj0VrcX6OAAW6lAAPIqwaY3Yk458.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/06/E1/Cgbj0VwA5jCAVNq3AARxYwtsFeI008.png680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/06/E1/Cgbj0VwA5jCAVNq3AARxYwtsFeI008.png120x120.jpg"
+      },
+      {
+        "bigImg": "https://openfile.meizu.com/group1/M00/06/D1/Cgbj0FwA5K6AdeU_AAorDn3t-Vs866.jpg680x680.jpg",
+        "smallImg": "https://openfile.meizu.com/group1/M00/06/D1/Cgbj0FwA5K6AdeU_AAorDn3t-Vs866.jpg120x120.jpg"
+      }
+    ],
+    "product_Type": [
+      {
+        "n_Id": 1,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 2,
+        "n_value": "EP51"
+      },
+      {
+        "n_Id": 3,
+        "n_value": "HALO"
+      },
+      {
+        "n_Id": 4,
+        "n_value": "POP"
+      },
+      {
+        "n_Id": 5,
+        "n_value": "EP52 Lite"
+      }
+    ],
+    "serviceDesc": [
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/6F/Cgbj0Vr-fIaAEwvKAA2Hox1ukAk217.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/6F/Cgbj0Vr-fIaAPnBBAAHCsWOb6Po652.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/60/Cgbj0Fr-fIaAb_tnAAVicXtTsn0383.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/60/Cgbj0Fr-fIiAMx_xAAMSfswt15c710.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/6F/Cgbj0Vr-fIqAfqLpAAGgT0Z4OAM517.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/60/Cgbj0Fr-fIuAB54lAAO2FY6gduA682.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/6F/Cgbj0Vr-fIuAU_X7AAiWC7n4rq0987.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/60/Cgbj0Fr-fIuAb69bAALYLQgxD_Y151.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/6F/Cgbj0Vr-fI2ASX6wAAaa3_wskMc580.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/60/Cgbj0Fr-fI6AfcCPAAu69y9JnYU498.jpg"
+      },
+      {
+        "serImgUrl": "https://openfile.meizu.com/group1/M00/04/68/Cgbj0FsCK9qAJtVTAAOcJEkwd3M896.jpg"
+      }
+    ]
+  }
+]

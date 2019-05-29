@@ -1,0 +1,270 @@
+[
+    {
+        "main_id": 51,
+        "productName":"魅蓝胸包",
+        "price": 89,
+        "status": 0,
+        "productDesc":"时尚个性 动无拘束",
+        "homeUrl":"https://fms.res.meizu.com/dms/2018/12/14/011c8745-9eb9-47b7-b6b1-97c98f7dcdf0.jpg",
+        "product_details":[
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/02/7B/Cgbj0Vn6yW6AUlsRAAWrjB0SvJc768.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/02/7B/Cgbj0Vn6yW6AUlsRAAWrjB0SvJc768.png120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/02/6D/Cgbj0Fn6yW-AIuRwAAkAugUgDao618.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/02/6D/Cgbj0Fn6yW-AIuRwAAkAugUgDao618.png120x120.jpg"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/02/7B/Cgbj0Vn6umSAZkrtAAdCZDzSSrU936.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/02/6D/Cgbj0Fn6umSAJ43MAAVawdp3nK8715.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/02/6D/Cgbj0Fn6umSAc1ldAARR1IEuolk368.jpg"
+            }
+        ]
+    },
+    {
+        "main_id": 52,
+        "productName":"Everyday 乐游系列 酷 MA 萌定制版",
+        "price": 599,
+        "status": 0,
+        "productDesc":"萌友为伴，为出行添点乐趣",
+        "homeUrl":"https://openfile.meizu.com/group1/M00/03/59/Cgbj0Vqwv3SAKEs9AAeZO9uMlbg447.png",
+        "product_details":[
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/03/59/Cgbj0Vqwv3SAKEs9AAeZO9uMlbg447.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/03/59/Cgbj0Vqwv3SAKEs9AAeZO9uMlbg447.png120x120.jpg"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/03/52/Cgbj0Fqxxp2ABf3-AATh_RjybFg676.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/03/60/Cgbj0Vqxxp2ALoSWAAIJBflDIj8054.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/03/60/Cgbj0Vqxxp2AUXdmAAWYWZtkuQg677.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/03/52/Cgbj0Fqxxp-AEUmtAAHW4CylqxY586.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/03/60/Cgbj0VqxxqCADfS-AAG7eFStjtU054.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/03/52/Cgbj0FqxxqGAeCV-AAWJ5tX4wxA848.jpg"
+            }
+        ]
+    },
+    {
+        "main_id": 53,
+        "productName":"魅族缤纷 Mini 自拍杆",
+        "price": 49,
+        "status": 0,
+        "productDesc":"便携轻巧",
+        "homeUrl":"https://openfile.meizu.com/group1/M00/01/81/Cgbj0FkmeZaAYy1oAAGW2D1yGJ8034.png",
+        "product_details":[
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/01/81/Cgbj0FkmeZaAYy1oAAGW2D1yGJ8034.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/01/81/Cgbj0FkmeZaAYy1oAAGW2D1yGJ8034.png120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/01/8E/Cgbj0VkmeZaAHjAAAAGlLNzuvgg194.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/01/8E/Cgbj0VkmeZaAHjAAAAGlLNzuvgg194.png120x120.jpg"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/01/A1/Cgbj0FlWBFyAEpA9AAhfTMX56dI495.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/01/AE/Cgbj0VlWBFyAOBW-AA0I2C7kRUk829.jpg"
+            }
+        ]
+    },
+    {
+        "main_id": 54,
+        "productName":"魅族蓝牙自拍杆",
+        "price": 99,
+        "status": 0,
+        "productDesc":"还给你自由的双手",
+        "homeUrl":"https://openfile.meizu.com/group1/M00/01/0B/Cix_s1iW3W2AQAzZAAJUz1tTYF4022.png",
+        "product_details":[
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/01/0B/Cix_s1iW3W2AQAzZAAJUz1tTYF4022.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/01/0B/Cix_s1iW3W2AQAzZAAJUz1tTYF4022.png120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/01/0B/CnQOjViW3W2Aa1_TAAGn1S-DmB4980.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/01/0B/CnQOjViW3W2Aa1_TAAGn1S-DmB4980.png120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/01/0B/CnQOjViW3W2AHDa3AAMCgFXEJTo443.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/01/0B/CnQOjViW3W2AHDa3AAMCgFXEJTo443.png120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/01/0B/Cix_s1iW3W6AQL0VAAIvYLEffc8584.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/01/0B/Cix_s1iW3W6AQL0VAAIvYLEffc8584.png120x120.jpg"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/01/94/Cgbj0Vko84eADI5wAAqa1X_aJDE366.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/03/41/Cgbj0FqnMmuAdArHAA4Va1y-hko161.jpg"
+            }
+        ]
+    },
+    {
+        "main_id": 55,
+        "productName":"魅蓝 休闲旅行双肩包",
+        "price": 199,
+        "status": 0,
+        "productDesc":"曲面一体式 多功能隔层 极简与线条之美",
+        "homeUrl":"https://fms.res.meizu.com/dms/2018/12/14/fdf15a13-8aa1-45eb-8713-44e20b8f18ed.jpg",
+        "product_details":[
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/00/49/CnQOjVfJIReAKnozAAVBTlzLU4U593.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/00/49/CnQOjVfJIReAKnozAAVBTlzLU4U593.png120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/00/49/Cix_s1fJIReAMlQeAAKLL-wY6q8439.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/00/49/Cix_s1fJIReAMlQeAAKLL-wY6q8439.png120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/00/49/CnQOjVfJIReAZ-TlAANQXgFoR54716.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/00/49/CnQOjVfJIReAZ-TlAANQXgFoR54716.png120x120.jpg"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/01/DF/Cgbj0Vmb4WKAEU1XAA2-xYgVSng248.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/01/D1/Cgbj0Fmb4WKAa-l-AA0g62ZgHns667.jpg"
+            }
+        ]
+    },
+    {
+        "main_id": 56,
+        "productName":"魅蓝数码收纳包",
+        "price": 59,
+        "status": 0,
+        "productDesc":"随身收纳 安全安心",
+        "homeUrl":"https://openfile.meizu.com/group1/M00/01/FB/Cgbj0Vmnd4mANqFvAAYQNPMfK1w252.png",
+        "product_details":[
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/01/FB/Cgbj0Vmnd4mACpbbAAWpKisBvl4526.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/01/FB/Cgbj0Vmnd4mACpbbAAWpKisBvl4526.png120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/01/EE/Cgbj0Fmnd42AfSSnAAKyp1C2OKQ711.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/01/EE/Cgbj0Fmnd42AfSSnAAKyp1C2OKQ711.png120x120.jpg"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/03/5F/Cgbj0VqxxkKATAgHAAMhEvXHqM8781.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/03/52/Cgbj0FqxxkKAHBO_AAK-Q8whRQU780.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/03/52/Cgbj0FqxxkKAXeUgAALVk2iCHHw965.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/03/52/Cgbj0FqxxkSAY0BgAAN2szV2hAc521.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/03/5F/Cgbj0VqxxkSAA1D9AAEu2MiJBn0979.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/03/5F/Cgbj0VqxxkSAcS61AAGQqeDocUA979.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/03/5F/Cgbj0VqxxkWAceFfAAE1faYWMq4270.jpg"
+            }
+        ]
+    },
+    {
+        "main_id": 57,
+        "productName":"魅蓝旅行包",
+        "price": 259,
+        "status": 0,
+        "productDesc":"轻盈负重 细节开花",
+        "homeUrl":"https://openfile.meizu.com/group1/M00/01/B0/Cgbj0VlZqvaAGb0QAAUD7V55-H8213.png",
+        "product_details":[
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/01/B0/Cgbj0VlZqvaAGb0QAAUD7V55-H8213.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/01/B0/Cgbj0VlZqvaAGb0QAAUD7V55-H8213.png120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/01/B0/Cgbj0VlZqvaAHyTBAASUhXbU_8g216.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/01/B0/Cgbj0VlZqvaAHyTBAASUhXbU_8g216.png120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/01/A2/Cgbj0FlZqvaALiZTAASksJqlbA8006.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/01/A2/Cgbj0FlZqvaALiZTAASksJqlbA8006.png120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/01/A3/Cgbj0FlZqvuAHE66AAZmHfuAync331.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/01/A3/Cgbj0FlZqvuAHE66AAZmHfuAync331.png120x120.jpg"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/02/63/Cgbj0Fn32kuAf2RpAAx4z16f7jw060.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/02/72/Cgbj0Vn32kuAJ8FTAApUkkM_O1E532.jpg"
+            }
+        ]
+    },
+    {
+        "main_id": 58,
+        "productName":"魅族盒子 一键找回遥控器",
+        "price": 199,
+        "status": 0,
+        "productDesc":"海量内容 同享美妙",
+        "homeUrl":"https://openfile.meizu.com/group1/M00/00/9C/Cix_s1gYZWCAc1jqAAGoLQ8h81w741.png",
+        "product_details":[
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/00/9C/Cix_s1gYZWCAc1jqAAGoLQ8h81w741.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/00/9C/Cix_s1gYZWCAc1jqAAGoLQ8h81w741.png120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/00/DB/CnQOjVhjXpyAbvBWAAKGY9iOGmI982.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/00/DB/CnQOjVhjXpyAbvBWAAKGY9iOGmI982.png120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/00/DB/CnQOjVhjXp2AOS72AADQMuh04g0733.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/00/DB/CnQOjVhjXp2AOS72AADQMuh04g0733.png120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/00/DC/Cix_s1hjXp6AC0MSAAFBSQ2rIa8790.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/00/DC/Cix_s1hjXp6AC0MSAAFBSQ2rIa8790.png120x120.jpg"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/F5/Cgbj0FxOe_mAAPB5AAFJ6xozEOM412.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/E0/Cgbj0Vv1AuOAVkNuAAN8GIZHd8o236.png"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/D0/Cgbj0Fv1AuOAOwFpAAmBnOu0ghk605.png"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/E0/Cgbj0Vv1AuOAQpgGAAedChdUvhI920.png"
+            }
+        ]
+    }
+]
