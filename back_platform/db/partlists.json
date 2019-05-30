@@ -1,0 +1,501 @@
+[
+    {
+        "main_id": 31,
+        "productName":"魅族 X8 高透保护膜",
+        "price": 19,
+        "status": 0,
+        "productDesc":"高透光率 助双眼捕捉每一颗像素的色彩",
+        "homeUrl":"https://fms.res.meizu.com/dms/2019/03/08/01782af6-5c38-4f95-b2aa-0e0e680ad054.png",
+        "product_details":[
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/06/DF/Cgbj0FwRr8uAZTsVAAhGUe23fjs268.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/06/DF/Cgbj0FwRr8uAZTsVAAhGUe23fjs268.png120x120.jpg"
+            }
+        ],
+        "product_Type": [
+            {
+                "n_Id":1,
+                "n_value":"高透保护膜"
+            },
+            {
+                "n_Id":2,
+                "n_value":"亲肤保护膜"
+            },
+            {
+                "n_Id":2,
+                "n_value":"透明"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/DA/Cgbj0FwOERSAf6zZAARmqt9npfg147.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/EA/Cgbj0VwOERSABZRDAANTfrZ5RpI225.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/EA/Cgbj0VwOERSAMA8QAAQIYlq8j0I996.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/DA/Cgbj0FwOERaAUj0yAAH7WGPokzY559.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/DA/Cgbj0FwOERaAUj0yAAH7WGPokzY559.jpg"
+            }
+        ]
+    },
+    {
+        "main_id": 32,
+        "productName":"魅族 16th 高透保护膜",
+        "price": 19,
+        "status": 0,
+        "productDesc":"高透光率 支持魅族16th屏幕指纹解锁",
+        "homeUrl":"https://openfile.meizu.com/group1/M00/06/F9/Cgbj0VwkSZKATjTlAAajD8PGNhs208.png",
+        "product_details":[
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/06/F9/Cgbj0VwkSZKATjTlAAajD8PGNhs208.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/06/F9/Cgbj0VwkSZKATjTlAAajD8PGNhs208.png120x120.jpg"
+            }
+        ],
+        "product_Type": [
+            {
+                "n_Id":1,
+                "n_value":"魅族 16th Plus"
+            },
+            {
+                "n_Id":2,
+                "n_value":"魅族 16X"
+            },
+            {
+                "n_Id":3,
+                "n_value":"魅族 V8 高配版"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/1E/Cgbj0Vt2deOAfuWvAAKog5Ye8i4936.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/0E/Cgbj0Ft2deOADwggAAKyN_Gtrp0155.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/0E/Cgbj0Ft2deOANe6bAAKxDi5r3bw374.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/1E/Cgbj0Vt2deSAbgNKAAHn_ZSVkVw087.jpg"
+            }
+        ]
+    },
+    {
+        "main_id": 33,
+        "productName":"魅族 16X 高透保护膜",
+        "price": 19,
+        "status": 0,
+        "productDesc":"支持魅族16X屏幕指纹解锁",
+        "homeUrl":"https://openfile.meizu.com/group1/M00/06/DF/Cgbj0FwRr7qAE0YNAAmBMjuVfOU842.png",
+        "product_details":[
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/06/DF/Cgbj0FwRr7qAE0YNAAmBMjuVfOU842.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/06/DF/Cgbj0FwRr7qAE0YNAAmBMjuVfOU842.png120x120.jpg"
+            }
+        ],
+        "product_Type": [
+            {
+                "n_Id":1,
+                "n_value":"魅族 16th Plus"
+            },
+            {
+                "n_Id":2,
+                "n_value":"魅族 16X"
+            },
+            {
+                "n_Id":3,
+                "n_value":"魅族 V8 高配版"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/B2/Cgbj0FuwbyKAPtyOAAOUKWeuoUg417.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/C0/Cgbj0VuwbyKAYxUZAANADIPci4o575.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/B2/Cgbj0FuwbyKAXmtMAAMBTQYhmow165.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/C0/Cgbj0VuwbySAMkB9AAHpDLUCetU431.jpg"
+            }
+        ]
+    },
+    {
+        "main_id": 34,
+        "productName":"魅族 Note8 高透保护膜",
+        "price": 19,
+        "status": 0,
+        "productDesc":"高透光率 助双眼捕捉每一颗像素的色彩",
+        "homeUrl":"https://openfile.meizu.com/group1/M00/06/EE/Cgbj0VwRr8KAC2JKAAl05Yq0esM119.png",
+        "product_details":[
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/06/EE/Cgbj0VwRr8KAC2JKAAl05Yq0esM119.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/06/EE/Cgbj0VwRr8KAC2JKAAl05Yq0esM119.png120x120.jpg"
+            }
+        ],
+        "product_Type": [
+            {
+                "n_Id":1,
+                "n_value":"魅族 16th Plus"
+            },
+            {
+                "n_Id":2,
+                "n_value":"魅族 16X"
+            },
+            {
+                "n_Id":3,
+                "n_value":"魅族 V8 高配版"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/DA/Cgbj0FwOEp6AGnqwAAWfHJUzo8w249.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/EA/Cgbj0VwOEp6ACxEQAAO5NnE6XCo045.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/EA/Cgbj0VwOEp6ARQiWAAQU5USo2-s612.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/DA/Cgbj0FwOEqCAReQ1AAH63CVmtWM810.jpg"
+            }
+        ]
+    },
+    {
+        "main_id": 35,
+        "productName":"快充电源适配器",
+        "price": 69,
+        "status": 0,
+        "productDesc":"快速充电 安全无忧",
+        "homeUrl":"https://fms.res.meizu.com/dms/2018/12/29/5370aa79-9b77-4b43-b37b-1dace18d4efa.jpg",
+        "product_details":[
+            {
+                "bigImg":"https://storeimg.meizu.com/product/1467170145-52479.png@680x680.jpg",
+                "smallImg":"https://storeimg.meizu.com/product/1467170145-52479.png@120x120.jpg"
+            },
+            {
+                "bigImg":"https://storeimg.meizu.com/product/1467170185-26471.png@680x680.jpg",
+                "smallImg":"https://storeimg.meizu.com/product/1467170185-26471.png@120x120.jpg"
+            },
+            {
+                "bigImg":"https://storeimg.meizu.com/product/1467170242-41341.png@680x680.jpg",
+                "smallImg":"https://storeimg.meizu.com/product/1467170242-41341.png@120x120.jpg"
+            },
+            {
+                "bigImg":"https://storeimg.meizu.com/product/1467170319-18407.png@680x680.jpg",
+                "smallImg":"https://storeimg.meizu.com/product/1467170319-18407.png@120x120.jpg"
+            }
+        ],
+        "product_Type": [
+            {
+                "n_Id":1,
+                "n_value":"魅族 16th Plus"
+            },
+            {
+                "n_Id":2,
+                "n_value":"魅族 16X"
+            },
+            {
+                "n_Id":3,
+                "n_value":"魅族 V8 高配版"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/02/7B/Cgbj0FoBEK2ASY-xAAtZUTXpopU520.jpg"
+            }
+        ]
+    },
+    {
+        "main_id": 36,
+        "productName":"魅族 Micro USB 数据线",
+        "price": 29,
+        "status": 0,
+        "productDesc":"广泛兼容 经久耐用",
+        "homeUrl":"https://storeimg.meizu.com/product/1458617159-29477.png",
+        "product_details":[
+            {
+                "bigImg":"https://storeimg.meizu.com/product/1458617159-29477.png@680x680.jpg",
+                "smallImg":"https://storeimg.meizu.com/product/1458617159-29477.png@120x120.jpg"
+            }
+        ],
+        "product_Type": [
+            {
+                "n_Id":1,
+                "n_value":"Type-C 金属数据线"
+            },
+            {
+                "n_Id":2,
+                "n_value":"Type-C 金属数据线"
+            },
+            {
+                "n_Id":4,
+                "n_value":"Micro USB 熊猫数据线"
+            },
+            {
+                "n_Id":3,
+                "n_value":"Micro USB 数据线"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://storeimg.meizu.com/product/1458619208-92166.jpg"
+            }
+        ]
+    },
+    {
+        "main_id": 37,
+        "productName":"魅族 Type-C 2.0数据线",
+        "price": 49,
+        "status": 0,
+        "productDesc":"5A大电流充电 高速传输",
+        "homeUrl":"https://openfile.meizu.com/group1/M00/03/2F/Cgbj0FqYqxqAcZ-nAAGaLqkN71s729.png",
+        "product_details":[
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/03/2F/Cgbj0FqYqxqAcZ-nAAGaLqkN71s729.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/03/2F/Cgbj0FqYqxqAcZ-nAAGaLqkN71s729.png120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/03/3D/Cgbj0VqYqxqAJ9MjAAIBv8rjWmQ462.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/03/3D/Cgbj0VqYqxqAJ9MjAAIBv8rjWmQ462.png120x120.jpg"
+            }
+        ],
+        "product_Type": [
+            {
+                "n_Id":1,
+                "n_value":"Type-C 金属数据线"
+            },
+            {
+                "n_Id":2,
+                "n_value":"Type-C 金属数据线"
+            },
+            {
+                "n_Id":4,
+                "n_value":"Micro USB 熊猫数据线"
+            },
+            {
+                "n_Id":3,
+                "n_value":"Micro USB 数据线"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/6E/Cgbj0VuR4RqAGShlAAUsDMgvUUQ586.jpg"
+            }
+        ]
+    },
+    {
+        "main_id": 38,
+        "productName":"魅族 16th Plus 亲肤保护壳",
+        "price": 29,
+        "status": 0,
+        "productDesc":"量体打造的纤薄 薄如无形",
+        "homeUrl":"https://openfile.meizu.com/group1/M00/06/16/Cgbj0Ft7iV6AQANcAAL00J0tbyQ152.png",
+        "product_details":[
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/06/16/Cgbj0Ft7iV6AQANcAAL00J0tbyQ152.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/06/16/Cgbj0Ft7iV6AQANcAAL00J0tbyQ152.png120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/06/25/Cgbj0Vt7iV6AQ7rgAACc-gWlDQ8198.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/06/25/Cgbj0Vt7iV6AQ7rgAACc-gWlDQ8198.png120x120.jpg"
+            }
+        ],
+        "product_Type": [
+            {
+                "n_Id":1,
+                "n_value":"高透保护膜"
+            },
+            {
+                "n_Id":2,
+                "n_value":"亲肤保护膜"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/26/Cgbj0Vt7v_mAJu43AAFichcJjVc858.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/17/Cgbj0Ft7v_mAAM-GAAHE5YzeTos972.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/17/Cgbj0Ft7v_mASWfvAADiUmHAMp4864.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/26/Cgbj0Vt7v_uAGItjAAGqYjKkLzs152.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/17/Cgbj0Ft7v_uAImV4AAFSEv7DXWA192.jpg"
+            }
+        ]
+    },
+    {
+        "main_id": 39,
+        "productName":"魅族 Micro USB 熊猫数据线",
+        "price": 49,
+        "status": 0,
+        "productDesc":"柔韧耐磨 全面兼容",
+        "homeUrl":"https://openfile.meizu.com/group1/M00/00/E4/CnQOjVhrElKAP2hjAAC-EVHlqVA415.jpg",
+        "product_details":[
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/00/E4/CnQOjVhrElKAP2hjAAC-EVHlqVA415.jpg680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/00/E4/CnQOjVhrElKAP2hjAAC-EVHlqVA415.jpg120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/00/E4/CnQOjVhrElOAandOAACr_Ybk1eI049.jpg680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/00/E4/CnQOjVhrElOAandOAACr_Ybk1eI049.jpg120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/00/E5/Cix_s1hrElOAWhiAAAC3QRGZs6E842.jpg680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/00/E5/Cix_s1hrElOAWhiAAAC3QRGZs6E842.jpg120x120.jpg"
+            }
+        ],
+        "product_Type": [
+            {
+                "n_Id":1,
+                "n_value":"高透保护膜"
+            },
+            {
+                "n_Id":2,
+                "n_value":"亲肤保护膜"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/00/E9/Cix_s1hvDaaABKWYAAcH7EMPF60328.jpg"
+            }
+        ]
+    },
+    {
+        "main_id": 40,
+        "productName":"魅族 X8 亲肤保护壳",
+        "price":29,
+        "status": 0,
+        "productDesc":"轻盈亲近 薄若无形",
+        "homeUrl":"https://openfile.meizu.com/group1/M00/00/E4/CnQOjVhrElKAP2hjAAC-EVHlqVA415.jpg",
+        "product_details":[
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/00/E4/CnQOjVhrElKAP2hjAAC-EVHlqVA415.jpg680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/00/E4/CnQOjVhrElKAP2hjAAC-EVHlqVA415.jpg120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/00/E4/CnQOjVhrElOAandOAACr_Ybk1eI049.jpg680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/00/E4/CnQOjVhrElOAandOAACr_Ybk1eI049.jpg120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/00/E5/Cix_s1hrElOAWhiAAAC3QRGZs6E842.jpg680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/00/E5/Cix_s1hrElOAWhiAAAC3QRGZs6E842.jpg120x120.jpg"
+            }
+        ],
+        "product_Type": [
+            {
+                "n_Id":1,
+                "n_value":"高透保护膜"
+            },
+            {
+                "n_Id":2,
+                "n_value":"亲肤保护膜"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/00/E9/Cix_s1hvDaaABKWYAAcH7EMPF60328.jpg"
+            }
+        ]
+    },
+    {
+        "main_id": 41,
+        "productName":"魅族 Type-C 2.0数据线",
+        "price": 49,
+        "status": 0,
+        "productDesc":"5A大电流充电 高速传输",
+        "homeUrl":"https://openfile.meizu.com/group1/M00/03/2F/Cgbj0FqYqxqAcZ-nAAGaLqkN71s729.png",
+        "product_details":[
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/03/2F/Cgbj0FqYqxqAcZ-nAAGaLqkN71s729.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/03/2F/Cgbj0FqYqxqAcZ-nAAGaLqkN71s729.png120x120.jpg"
+            },
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/03/3D/Cgbj0VqYqxqAJ9MjAAIBv8rjWmQ462.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/03/3D/Cgbj0VqYqxqAJ9MjAAIBv8rjWmQ462.png120x120.jpg"
+            }
+        ],
+        "product_Type": [
+            {
+                "n_Id":1,
+                "n_value":"Type-C 金属数据线"
+            },
+            {
+                "n_Id":2,
+                "n_value":"Type-C 金属数据线"
+            },
+            {
+                "n_Id":4,
+                "n_value":"Micro USB 熊猫数据线"
+            },
+            {
+                "n_Id":3,
+                "n_value":"Micro USB 数据线"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/6E/Cgbj0VuR4RqAGShlAAUsDMgvUUQ586.jpg"
+            }
+        ]
+    },
+    {
+        "main_id": 42,
+        "productName":"魅族 X8 高透保护膜",
+        "price": 19,
+        "status": 0,
+        "productDesc":"高透光率 助双眼捕捉每一颗像素的色彩",
+        "homeUrl":"https://fms.res.meizu.com/dms/2019/03/08/01782af6-5c38-4f95-b2aa-0e0e680ad054.png",
+        "product_details":[
+            {
+                "bigImg":"https://openfile.meizu.com/group1/M00/06/DF/Cgbj0FwRr8uAZTsVAAhGUe23fjs268.png680x680.jpg",
+                "smallImg":"https://openfile.meizu.com/group1/M00/06/DF/Cgbj0FwRr8uAZTsVAAhGUe23fjs268.png120x120.jpg"
+            }
+        ],
+        "product_Type": [
+            {
+                "n_Id":1,
+                "n_value":"高透保护膜"
+            },
+            {
+                "n_Id":2,
+                "n_value":"亲肤保护膜"
+            },
+            {
+                "n_Id":2,
+                "n_value":"透明"
+            }
+        ],
+        "serviceDesc":[
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/DA/Cgbj0FwOERSAf6zZAARmqt9npfg147.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/EA/Cgbj0VwOERSABZRDAANTfrZ5RpI225.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/EA/Cgbj0VwOERSAMA8QAAQIYlq8j0I996.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/DA/Cgbj0FwOERaAUj0yAAH7WGPokzY559.jpg"
+            },
+            {
+                "serImgUrl":"https://openfile.meizu.com/group1/M00/06/DA/Cgbj0FwOERaAUj0yAAH7WGPokzY559.jpg"
+            }
+        ]
+    }
+]
