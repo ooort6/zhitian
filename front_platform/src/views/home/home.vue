@@ -32,8 +32,9 @@
           <div class="section-box-adv" style="background:#fff">
             <Row :gutter="16" style="width:1200px;margin:0 auto;margin-top:2%">
               <Col span="8">
-                <Card :bordered="false" style="height:268px;padding-top:30px">
-                  <div style="text-align:center">
+                <Card :bordered="false" style="height:268px;padding-top:30px; cursor: pointer;">
+                  <div style="text-align:center;position:relative" @click="$router.push({name: 'xinxisafe'})">
+                    <span class="adv-font-title" style="position:absolute;top:40%; color:#00366F;font-size:24px; left:35%">信息安全</span>
                     <img src="@/static/image/1.png">
                     <br>
                     <span class="adv-font">查看详情</span>
@@ -42,8 +43,9 @@
                 </Card>
               </Col>
               <Col span="8">
-                <Card :bordered="false" style="height:268px;padding-top:30px">
-                  <div style="text-align:center">
+                <Card :bordered="false" style="height:268px;padding-top:30px; cursor: pointer;">
+                  <div style="text-align:center;position:relative" @click="$router.push({name: 'yewusafe'})">
+                     <span class="adv-font-title" style="position:absolute;top:40%; color:#00366F;font-size:24px; left:35%">业务安全</span>
                     <img src="@/static/image/2.png">
                     <span class="adv-font">查看详情</span>
                     <span class="adv-img"></span>
@@ -51,8 +53,9 @@
                 </Card>
               </Col>
               <Col span="8">
-                <Card :bordered="false" style="height:268px;padding-top:30px">
-                  <div style="text-align:center">
+                <Card :bordered="false" style="height:268px;padding-top:30px; cursor: pointer;">
+                  <div style="text-align:center;position:relative" @click="$router.push({name: 'yunyingsafe'})">
+                     <span class="adv-font-title" style="position:absolute;top:40%; color:#00366F;font-size:24px; left:30%">企业运营安全</span>
                     <img src="@/static/image/3.png">
                     <span class="adv-font">查看详情</span>
                     <span class="adv-img"></span>
@@ -200,6 +203,7 @@ export default {
     };
   },
   mounted() {
+
     if (1) {
       this.$store.dispatch("footerStatus/getNewNum", this.num);
       // console.log(this.num)
@@ -223,11 +227,8 @@ export default {
   },
   watch: {},
   methods: {
-    goTop() {
-      debugger;
-      console.log(22);
-      // alert('555')
-    }
+   
+    
     // phoneDetails(item){
     // 	this.$router.push({name:'details', query:{main_id:item.main_id}})
     // },

@@ -11,51 +11,71 @@
 
 
       </div>
-        <i-col class="i-col" span="5" offset="4" style="margin-right:18px">
-            <Card shadow>
+        <i-col class="i-col" span="5" offset="4" style="margin-right:18px" >
+          <div @click="$router.push({name: 'product_1'})">
+             <Card shadow >
             <img src="../../../static/image/图.png" alt="">
                 <p>恶意代码防护</p>
             </Card>
+          </div>
+         
         </i-col>
         <i-col class="i-col" span="5"  style="margin-right:18px">
+           <div @click="$router.push({name: 'product_2'})">
             <Card shadow>
             <img src="../../../static/image/图.png" alt="">
                 <p>智能DNS</p>
             </Card>
+           </div>
         </i-col>
           <i-col class="i-col" span="5"  style="margin-right:18px">
+           <div @click="$router.push({name: 'product_3'})">
+
              <Card shadow>
             <img src="../../../static/image/图.png" alt="">
                 <p>网络流量分析及管理系统 </p>
             </Card>
+           </div>
         </i-col>
           <i-col class="i-col" span="5"   >
+           <div @click="$router.push({name: 'product_4'})">
+
              <Card shadow>
             <img src="../../../static/image/图.png" alt="">
                 <p>网络内容审核系统</p>
             </Card>
+           </div>
         </i-col>
         
         <br>
 
 
          <i-col class="i-col" span="5" offset="6" style="margin-right:18px">
+           <div @click="$router.push({name: 'product_5'})">
+
             <Card shadow>
             <img src="../../../static/image/图.png" alt="">
                 <p>综合控制系统</p>
             </Card>
+           </div>
         </i-col>
         <i-col class="i-col" span="5"  style="margin-right:18px">
+           <div @click="$router.push({name: 'product_6'})">
+
             <Card shadow>
             <img src="../../../static/image/图.png" alt="">
                 <p>安全管理平台 </p>
             </Card>
+           </div>
         </i-col>
           <i-col class="i-col" span="5"  style="margin-right:18px">
+           <div @click="$router.push({name: 'product_7'})">
+
              <Card shadow>
             <img src="../../../static/image/图.png" alt="">
                 <p>三维全景GIS系统  </p>
             </Card>
+           </div>
         </i-col>
     </Row>
     

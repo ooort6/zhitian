@@ -1,26 +1,23 @@
 <template>
-<div>
-
-        <BackTop :height='0' :right="3" :bottom="655" >
-        <div class="top"
-      
-        
+  <div>
+    <BackTop :height="0" :right="3" :bottom="655">
+      <div class="top">
+        <img
+          src="../../static/image/TOP.png"
+          style=" position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);"
+          alt
         >
-            <img
-        src="../../static/image/TOP.png"
-        style=" position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);"
-        alt
-      >
-        </div>
+        
+      </div>
     </BackTop>
- <div id="dg" class="top" style=" bottom: 600px; z-index:2">
+    <div id="dg" class="top" style=" bottom: 600px; z-index:2">
       <img
         src="../../static/image/TOP.png"
         style=" position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);"
         alt
       >
     </div>
-      <div id="dg" class="top" style=" bottom: 545px;">
+    <div id="dg" class="top" style=" bottom: 545px;">
       <img
         src="../../static/image/售前咨询 (1).png"
         style=" position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);"
@@ -62,46 +59,42 @@
         alt
       >
     </div>
-</div>
-     
-
+  </div>
 </template>
 <script>
 export default {
-    name:'backTop'
-}
+  name: "backTop"
+};
 </script>
 <style lang="scss" scoped>
-      .top {
-    z-index: 9999;
-    text-align: center;
-    position: fixed;
-    right: 3px;
-    background: #fff;
-    // border-radious: 2px;
-    border-radius: 2px;
-    border: 1px solid #d7d7d7;
-    border-bottom: none;
+.top {
+  z-index: 9999;
+  text-align: center;
+  position: fixed;
+  right: 3px;
+  background: #fff;
+  // border-radious: 2px;
+  border-radius: 2px;
+  border: 1px solid #d7d7d7;
+  border-bottom: none;
 
-    width: 55px;
-    height: 55px;
-    cursor: pointer;
+  width: 55px;
+  height: 55px;
+  cursor: pointer;
+}
+.top1 {
+  z-index: 9999;
+  text-align: center;
+  position: fixed;
+  right: 3px;
+  background: #fff;
+  // border-radious: 2px;
+  border-radius: 2px;
+  border: 1px solid #d7d7d7;
+  // border-bottom: none;
 
-  }
-   .top1 {
-    z-index: 9999;
-    text-align: center;
-    position: fixed;
-    right: 3px;
-    background: #fff;
-    // border-radious: 2px;
-    border-radius: 2px;
-    border: 1px solid #d7d7d7;
-    // border-bottom: none;
-
-    width: 55px;
-    height: 55px;
-    cursor: pointer;
-
-  }
+  width: 55px;
+  height: 55px;
+  cursor: pointer;
+}
 </style>

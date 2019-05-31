@@ -70,6 +70,87 @@ export default [
       component: () =>import ('@/views/goodsList/formDemo/formDemo')
     },
     {
+      path: '/xinxisafe',
+      name: 'xinxisafe',
+      meta:{
+        title:'信息安全'
+      },
+      component: () =>import ('@/views/goodsList/safe/xinxisafe')
+    },
+    {
+      path: '/yewusafe',
+      name: 'yewusafe',
+      meta:{
+        title:'业务安全'
+      },
+      component: () =>import ('@/views/goodsList/safe/yewusafe')
+    },
+    {
+      path: '/yunyingsafe',
+      name: 'yunyingsafe',
+      meta:{
+        title:'企业运营安全'
+      },
+      component: () =>import ('@/views/goodsList/safe/yunyingsafe')
+    },
+    {
+      path: '/product_1',
+      name: 'product_1',
+      meta:{
+        title:'恶意代码防护'
+      },
+      component: () =>import ('@/views/goodsList/product/product_1')
+    },
+    {
+      path: '/product_2',
+      name: 'product_2',
+      meta:{
+        title:'智能DNS'
+      },
+      component: () =>import ('@/views/goodsList/product/product_2')
+    },
+    {
+      path: '/product_3',
+      name: 'product_3',
+      meta:{
+        title:'网络流量分析及管理系统 '
+      },
+      component: () =>import ('@/views/goodsList/product/product_3')
+    },
+    {
+      path: '/product_4',
+      name: 'product_4',
+      meta:{
+        title:'网络内容审核系统'
+      },
+      component: () =>import ('@/views/goodsList/product/product_4')
+    },
+    {
+      path: '/product_5',
+      name: 'product_5',
+      meta:{
+        title:'综合控制系统'
+      },
+      component: () =>import ('@/views/goodsList/product/product_5')
+    },
+    {
+      path: '/product_6',
+      name: 'product_6',
+      meta:{
+        title:'安全管理平台 '
+      },
+      component: () =>import ('@/views/goodsList/product/product_6')
+    },
+    {
+      path: '/product_7',
+      name: 'product_7',
+      meta:{
+        title:'三维全景GIS系统 '
+      },
+      component: () =>import ('@/views/goodsList/product/product_7')
+    },
+   
+    {
       path: '/details',
       name: 'details',
       meta:{
