@@ -17,14 +17,14 @@
         alt
       >
     </div>
-    <div id="dg" class="top" style=" bottom: 545px;">
+    <div id="dg" class="top" style=" bottom: 545px;" @click="$router.push({name: 'shouqian'})">
       <img
         src="../../static/image/售前咨询 (1).png"
         style=" position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);"
         alt
       >
     </div>
-    <div id="dg" class="top" style=" bottom: 490px;">
+    <div id="dg" class="top" style=" bottom: 490px;" @click="$router.push({name: 'shouhou'})"> 
       <img
         src="../../static/image/售后咨询.png"
         style=" position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);"

@@ -97,9 +97,12 @@ export default {
 </script>
 <style lang="scss" scoped>
   .programme{
-    // width: 100%;
+    width: 100%;
     // height: 1000px;
     // position: relative;
+    img{
+      width: 100%;
+    }
   }
   .i-col{
     width: 290px;

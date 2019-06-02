@@ -149,6 +149,22 @@ export default [
       },
       component: () =>import ('@/views/goodsList/product/product_7')
     },
+    {
+      path: '/shouqian',
+      name: 'shouqian',
+      meta:{
+        title:'售前服务 '
+      },
+      component: () =>import ('@/views/goodsList/bar/shouqian')
+    },
+    {
+      path: '/shouhou',
+      name: 'shouhou',
+      meta:{
+        title:'售后服务 '
+      },
+      component: () =>import ('@/views/goodsList/bar/shouhou')
+    },
    
     {
       path: '/details',
