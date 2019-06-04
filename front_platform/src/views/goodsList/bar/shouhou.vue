@@ -29,7 +29,7 @@
            <Card  shadow>
                 <p style="font-family:PingFang-SC-Bold;font-size:30px;color:#172A88;text-align:center;margin-bottom:20px;">电话咨询</p>
                 <p style="color:#535353;font-size:18px; font-family:PingFang-SC-Regular;line-height:25px "> 全国统一售前服务热线，若遇线路繁忙，请选择 在线交谈 进行产品和服务咨询</p>
-                <p style="color:#172A88;font-size:30px;margin-top:20%">18930518390</p> 
+                <p style="color:#172A88;font-size:30px;margin-top:20%">021-2281-9090</p> 
             
             </Card>
         </Col>

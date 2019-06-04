@@ -19,9 +19,11 @@ export default {
 </script>
 <style lang="scss" scoped>
   .cooperation{
+  padding-top: 4%;
+
         // height: 100%;
         // width: 200px;
-        // background: red;
+        background: #f6f6f6;
 
   }
 </style>

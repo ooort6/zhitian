@@ -22,6 +22,8 @@ export default {
 </script>
 <style lang="scss" scoped>
   .aboutUS{
+  padding-top: 0.5%;
+
     // width: 100%;
     // height: 1000px;
   }
