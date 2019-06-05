@@ -1,5 +1,34 @@
 <template>
   <div class="programme">
+    <div class="inimg">
+      <span class="ztext" style="margin-left:2%" @click="$router.push({name: 'product_1'})" >
+        恶意代码防护
+      </span>
+      <span class="zborder" ></span>
+       <span class="ztext" @click="$router.push({name: 'product_2'})" >
+        智能DNS
+      </span>
+        <span class="zborder"></span>
+       <span class="ztext" @click="$router.push({name: 'product_3'})" >
+        网络流量分析及管理系统 
+      </span>
+        <span class="zborder"></span>
+       <span class="ztext" @click="$router.push({name: 'product_4'})" >
+        网络内容审核系统
+      </span>
+        <span class="zborder"></span>
+       <span class="ztext" @click="$router.push({name: 'product_5'})" >
+        综合控制系统
+      </span>
+        <span class="zborder"></span>
+       <span class="ztext" @click="$router.push({name: 'product_6'})" >
+        安全管理平台 
+      </span>
+        <span class="zborder"></span>
+       <span class="ztext" @click="$router.push({name: 'product_7'})" >
+        三维全景GIS系统 
+      </span>
+    </div>
 <img src="../../../static/image/解决方案1.png" alt="">
     <Row :gutter="16"  justify="space-around" class="card" style="padding:20px">
       <div class="title">
@@ -97,12 +126,42 @@ export default {
 </script>
 <style lang="scss" scoped>
   .programme{
+ 
     width: 100%;
     // height: 1000px;
     // position: relative;
     img{
       width: 100%;
     }
+       .inimg{
+         height: 5%;
+         width: 100%;
+        //  margin-left:10%;
+         position: absolute;
+         background:rgba(3,8,142,0.5);
+          padding-top: 0.5%;
+          padding-left:7%;
+         top: 78%;
+        //  z-index: 999;
+        .ztext{
+        width:111px;
+                    height:17px;
+                    font-size:18px;
+                    font-family:PingFang-SC-Medium;
+                    font-weight:500;
+                    padding:20px;
+                    color:#fff;
+                    z-index:999;
+                    cursor: pointer;
+                   margin-right:2%;
+        }
+        .zborder{
+          height: 50px;
+                   margin-right:2%;
+
+          border-right:1px solid #6ED5F9;
+        }
+       }
   }
   .i-col{
     width: 290px;

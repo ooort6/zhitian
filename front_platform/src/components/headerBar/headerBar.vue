@@ -24,9 +24,10 @@
                         <!-- <Icon type="ios-paper" /> -->
                         首页
                     </MenuItem>
+                   
                     <MenuItem class="nav-item" name="programme" :to="{name:'programme'}">
-                        <!-- <Icon type="ios-stats" /> -->
-                        产品与解决方案
+                    产品与解决方案
+                    
                     </MenuItem>
                     <MenuItem class="nav-item" name="home" :to="{name:'home'}">
                         <!-- <Icon type="ios-people" /> -->
@@ -165,6 +166,10 @@ export default {
           font-size: 18px;
           margin-top:1%;
           border: none;
+        }
+        .nav-item1{
+           display: block;
+            margin-right: 13px;
         }
     }
 }

@@ -70,6 +70,14 @@ export default [
       component: () =>import ('@/views/goodsList/formDemo/formDemo')
     },
     {
+      path: '/page',
+      name: 'page',
+      meta:{
+        title:'表单'
+      },
+      component: () =>import ('@/views/goodsList/formDemo/page')
+    },
+    {
       path: '/xinxisafe',
       name: 'xinxisafe',
       meta:{
