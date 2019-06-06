@@ -48,7 +48,7 @@
         申请合作
       </span>
     </div>
-    <div id="dg" class="top" style=" bottom: 380px;">
+    <div id="dg" class="top" style=" bottom: 380px;" @click="$router.push({name: 'formDemo'})">
       <img
         src="../../static/image/资料中心.png"
         style=" position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);"

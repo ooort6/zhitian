@@ -11,7 +11,10 @@
                 <p style="font-family:PingFang-SC-Bold;font-size:30px;color:#172A88;margin-bottom:20px;text-align:center;">即时在线咨询</p>
              <p style="color:#535353;font-size:18px; font-family:PingFang-SC-Regular;line-height:25px; ">免费即时在线咨询，为您解答常见售前问题服务时间：<br><br>9:00-12:00 14:00-18:00（工作日）
                         </p>
-             <Button style="background:#1D2088;color:#f6f6f6;margin-top:15%;" >售前在线咨询</Button>
+             <!-- <Button style="background:#1D2088;color:#f6f6f6;margin-top:15%;" >售前在线咨询</Button> -->
+
+             <Button style="color:#172A88;margin-top:15%;" >售前在线咨询</Button>
+
 
             </Card>
         </Col>
@@ -43,7 +46,9 @@
                 <p style="font-family:PingFang-SC-Bold;font-size:30px;color:#172A88;margin-bottom:20px;text-align:center;">成为销售合作伙伴</p>
              <p style="color:#535353;font-size:18px; font-family:PingFang-SC-Regular;line-height:25px; ">深信服渠道化市场战略以及全方位的渠道体系支持,期待与您携手
                         </p>
-             <Button style="background:#1D2088;color:#f6f6f6;margin-top:15%;" >立即申请</Button>
+             <Button style="color:#172A88;margin-top:15%;" >立即申请</Button>
+             <!-- <Button style="background:#1D2088;color:#f6f6f6;margin-top:15%;" >立即申请</Button> -->
+
 
             </Card>
         </Col>

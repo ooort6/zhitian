@@ -11,7 +11,9 @@
                 <p style="font-family:PingFang-SC-Bold;font-size:30px;color:#172A88">在线交谈</p>
                 <img style="width:84px;height:80px;margin-left:35%;margin-top:5%;opacity:0.5;" src="../../../static/image/在线交谈_jammy.png" alt="">
              <p style="color:#535353;font-size:18px; font-family:PingFang-SC-Regular;line-height:25px ">工作日 9:00-12:00 14:00-18:00客服代表一对一即时消息沟通</p>
-             <Button style="background:#1D2088;color:#f6f6f6;margin-top:15%;" >立即在线交谈</Button>
+             <!-- <Button style="background:#1D2088;color:#f6f6f6;margin-top:15%;" >立即在线交谈</Button> -->
+             <Button style="color:#172A88;margin-top:15%;" >立即在线交谈</Button>
+
 
             </Card>
         </Col>

@@ -43,7 +43,7 @@
                     </MenuItem>
                     <MenuItem class="nav-item" name="formDemo" :to="{name:'formDemo'}">
                         <!-- <Icon type="ios-people" /> -->
-                        资料下载
+                        资料中心
                     </MenuItem>
                 
                 </Menu>

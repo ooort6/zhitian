@@ -18,7 +18,7 @@
         <Input v-model="formValidate.money"></Input>
       </FormItem>
       <FormItem label="成立时间" prop="ctime">
-        <Input v-model="formValidate.ctime"></Input>
+        <Input :disabled="aa" v-model="formValidate.ctime"></Input>
       </FormItem>
       <FormItem label="意向合作行业" prop="gender">
         <RadioGroup v-model="formValidate.gender">
@@ -77,6 +77,8 @@ export default {
       }
     };
     return {
+        aa:false,
+
       formValidate: {
         name: "",
         mail: "",
@@ -90,7 +92,7 @@ export default {
         post: "",
         phone: "",
         number: "",
-        gurl: ""
+        gurl: "",
       },
       ruleValidate: {
         name: [
