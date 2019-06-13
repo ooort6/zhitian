@@ -1,6 +1,6 @@
 <template>
   <div class="product_1">
-      <img src="../../../static/image/恶意代码防护.png" alt="">
+      <img src="../../../static/image/恶意代码防护.jpg" alt="">
   </div>
 </template>
 <script>

@@ -1,8 +1,8 @@
 <template>
   <div class="shouqian">
-    <img src="../../../static/image/如何购买.png" alt="">
+    <img src="../../../static/image/售前咨询.jpg" alt="">
     <span>
-      本页面仅受理售前的购买咨询，如需售后帮助，请点击 <a href="#" style="color:red">链接</a>
+      本页面仅受理售前的购买咨询，如需售后帮助，请点击 <a  style="color:red" @click="$router.push({name: 'shouhou'})" >链接</a>
     </span>
     <div class="bottom1" >
           <Row  style="padding-left:40px">
@@ -33,7 +33,7 @@
                 <p style="font-family:PingFang-SC-Bold;font-size:30px;color:#172A88">电话咨询</p>
                 <img style="width:84px;height:80px;margin-left:35%;margin-top:5%;opacity:0.5;" src="../../../static/image/电话咨询.png" alt="">
                 <p style="color:#535353;font-size:18px; font-family:PingFang-SC-Regular;line-height:25px "> 全国统一售前服务热线，若遇线路繁忙，请选择 在线交谈 进行产品和服务咨询</p>
-                <p style="color:#172A88;font-size:30px;margin-top:5%">021-2281-9090</p> 
+                <p style="color:#172A88;font-size:30px;margin-top:5%;font-family:Impact">021-2281-9090</p> 
             
             </Card>
         </Col>
@@ -64,7 +64,7 @@ export default {
         text-align: center;
     img{
         width: 100%;
-        margin-bottom: 60px;
+        margin-bottom: 20px;
     }
     span{
       font-family: "PingFang-SC-Regular";
@@ -80,8 +80,9 @@ export default {
       height: 545px;
       background: #f6f6f6;
       .ivu-card{
-        height: 381px;
-   
+        padding-top: 8%;  
+        height: 386px;
+        width: 354px;
       }
     }
   }

@@ -1,6 +1,6 @@
 <template>
   <div class="product_2">
-       <img src="../../../static/image/智能DNS.png" alt="">
+       <img src="../../../static/image/智能DNS.jpg" alt="">
   </div>
 </template>
 <script>

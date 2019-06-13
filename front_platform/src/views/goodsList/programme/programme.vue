@@ -29,7 +29,7 @@
         三维全景GIS系统 
       </span>
     </div>
-<img src="../../../static/image/解决方案1.png" alt="">
+<img src="../../../static/image/解决方案shaang.jpg" alt="">
     <Row :gutter="16"  justify="space-around" class="card" style="padding:20px">
       <div class="title">
           <div class="title-center">
@@ -174,18 +174,25 @@ export default {
   }
   .card{
     height: 989px;
-    background: url('../../../static/image/解决方案bg.png');
+    background: url('../../../static/image/解决方案xia.jpg');
     // background-image: url('../../../static/image/解决方案.png')
     // position: absolute;
     // bottom: 5%;
+    img{
+      &:hover{
+        opacity: 0.8;
+      }
+    }
     .title{
+      
       margin: 0 auto;
-      height: 200px;
+      margin-top: 2%;
+      height: 150px;
       .title-center{
-        width: 313px;
-        height: 93px;
+        width: 300px;
+        height: 63px;
         font-family: "PingFang-SC-Medium";
-        font-size: 48px;
+        font-size: 36px;
         color: #003672;
         border-bottom: 2px solid #003672;
         text-align: center;
@@ -193,7 +200,8 @@ export default {
    
     .greencircle {
       position: absolute;
-      margin-top:  35px;
+      margin-top:  25px;
+      margin-left: 2%;
       width: 12px;
       height: 12px;
       background: #003672;
@@ -202,8 +210,8 @@ export default {
     }
     .bluecircle{
       position: absolute;
-      right: 41.8%;
-      margin-top:  -35px;
+      right: 44.5%;
+      margin-top:  -30px;
       // margin-right: 5%;
       // float: right;
       width: 12px;

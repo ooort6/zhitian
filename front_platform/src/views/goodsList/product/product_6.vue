@@ -1,6 +1,6 @@
 <template>
   <div class="product_6">
-      <img src="../../../static/image/安全管理.png" alt="">
+      <img src="../../../static/image/安全管理.jpg" alt="">
   </div>
 </template>
 <script>

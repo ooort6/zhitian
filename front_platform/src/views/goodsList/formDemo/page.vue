@@ -1,12 +1,13 @@
 <template>
   <div class="see">
     <Collapse v-model="value">
-      <Panel v-for="(item,index) in items" v-bind:key="item.id">
+      <Panel v-for="(item,index) in showList" v-bind:key="item.id">
         {{item.date}}-{{index}}
         <div slot="content" >
         {{item.fengxiang}}
         </div>
       </Panel>
+      <Page :total='dataCount' :page-size="pageSize" show-total @on-change="changepage" show-elevator></Page>
     </Collapse>
   </div>
 </template>
@@ -16,7 +17,11 @@ export default {
     return {
       value: [],
       // items: [{id:1,class:2},{id:2,class:3},{id:3,class:4}],
-      items: []
+      items: [],
+      dataCount:0,
+      pageSize:2,
+      showList:[],
+      totalProblemList:[]
     };
   },
   created() {
@@ -25,7 +30,7 @@ export default {
     this.action();
   },
   mounted() {
-
+   
   },
   methods: {
     action() {
@@ -36,7 +41,14 @@ export default {
       this.$axios
         .post(api)
         .then(res => {
-          // this.items = res.data.data.forecast;
+          this.totalProblemList=res.data.data.forecast;
+          this.dataCount = this.totalProblemList.length;
+          if(this.dataCount<this.pageSize){
+            this.showList=this.totalProblemList;
+
+          }else{
+            this.showList=this.totalProblemList.slice(0,this.pageSize)
+          }
           console.log(res.data);
         })
         .catch(error => {
@@ -45,12 +57,18 @@ export default {
 
         });
     },
+       changepage(index){
+        var _start=(index-1)*this.pageSize;
+        var _end=index*this.pageSize;
+        this.showList=this.totalProblemList.slice(_start,_end)
+      }
   }
 };
 </script>
 
 <style>
     .see{
-        padding-top: 20%;
+        /* height: 500px; */
+        padding-top: 10%;
     }
 </style>

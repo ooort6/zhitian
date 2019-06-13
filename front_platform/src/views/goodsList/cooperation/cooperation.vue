@@ -1,6 +1,6 @@
 <template>
   <div class="cooperation">
-      <img src="../../image/合作发展.png" alt="">
+      <img src="../../../static/image/合作发展.jpg" alt="">
   </div>
 </template>
 <script>

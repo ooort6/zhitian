@@ -1,6 +1,6 @@
 <template>
   <div class="yunyingsafe">
-<img src='../../../static/image/企业安全.png' alt="">
+<img src='../../../static/image/企业安全.jpg' alt="">
 
 
   </div>

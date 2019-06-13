@@ -1,6 +1,6 @@
 <template>
   <div class="yewusafe">
-<img src='../../../static/image/业务安全.png' alt="">
+<img src='../../../static/image/业务安全.jpg' alt="">
 
   </div>
 </template>

@@ -1,6 +1,6 @@
 <template>
   <div class="product_7">
-    <img src="../../../static/image/3维全景GIS系统.png" alt="">
+    <img src="../../../static/image/3维全景GIS系统.jpg" alt="">
   </div>
 </template>
 <script>

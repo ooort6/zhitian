@@ -1,6 +1,6 @@
 <template>
   <div class="aboutUS">
-<img src="../../image/关于我们.png" alt="">
+<img src="../../../static/image/关于我们.jpg" alt="">
 
   </div>
 </template>

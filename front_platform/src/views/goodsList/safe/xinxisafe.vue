@@ -1,6 +1,6 @@
 <template>
   <div class="xinxisafe">
-<img src='../../../static/image/信息安全.png' alt="">
+<img src='../../../static/image/信息安全.jpg' alt="">
 
 
   </div>

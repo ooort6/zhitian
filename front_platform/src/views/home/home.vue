@@ -12,7 +12,7 @@
       >
         <CarouselItem>
           <div class="demo-carousel">
-            <img src="@/static/image/首图.png" alt>
+            <img src="../../static/image/首图.jpg" alt>
           </div>
         </CarouselItem>
         <CarouselItem>
@@ -77,7 +77,7 @@
 
       <div class="case">
         <header>
-          <img src="../image/组 14.png" data-src>
+          <img src="../../static/image/案例展示.png" data-src>
         </header>
         <content>
           <article>
@@ -145,13 +145,13 @@
 
       <div class="partner">
         <header>
-          <img src="../image/组 14(1).png" alt="not find image">
+          <img src="../../static/image/合作客户.png" alt="not find image">
         </header>
         <img class="partner-img" src="../../static/image/5.png" alt>
       </div>
       <div class="aboutUs">
         <header>
-          <img src="../image/组 12.png" alt="not find image">
+          <img src="../../static/image/关于我们.png" alt="not find image">
         </header>
         <content>
           <p>上海智天信息科技有限公司成立于2012年。2015年通过工信部软件企业评审。 公司业务主要集中于安全领域，拥有完整地安全产品线。经过近10年的发展，公司业务范围不断扩大，业界知名度不断提升。目前，公司客户群体主要集中在政府、事业单位以及大型企业。</p>
@@ -494,7 +494,7 @@ export default {
   .case header {
     width: 100%;
     height: 68px;
-    margin: 0 0 121px 0;
+    margin: 0 0 61px 0;
   }
 
   .case header img {
@@ -611,7 +611,7 @@ export default {
   .aboutUs header {
     width: 100%;
     height: 68px;
-    margin: 0 0 71px 0;
+    margin: 0 0 20px 0;
   }
 
   .aboutUs header img {
