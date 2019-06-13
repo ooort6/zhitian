@@ -49,9 +49,33 @@ export default [
       path: '/success',
       name: 'success',
       meta:{
-        title:'成功案例'
+        title:'成功案例0'
       },
       component: () =>import ('@/views/goodsList/success/success')
+    },
+    {
+      path: '/success1',
+      name: 'success1',
+      meta:{
+        title:'成功案例1'
+      },
+      component: () =>import ('@/views/goodsList/success/success1')
+    },
+    {
+      path: '/success2',
+      name: 'success2',
+      meta:{
+        title:'成功案例2'
+      },
+      component: () =>import ('@/views/goodsList/success/success2')
+    },
+    {
+      path: '/success3',
+      name: 'success3',
+      meta:{
+        title:'成功案例3'
+      },
+      component: () =>import ('@/views/goodsList/success/success3')
     },
     {
       path: '/cooperation',

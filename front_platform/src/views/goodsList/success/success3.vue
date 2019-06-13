@@ -1,15 +1,15 @@
 <template>
-  <div class="success">
+  <div class="success3">
     <img src="../../../static/image/cgal.jpg" alt>
     <div class="content_1" >
-      <span class="content_2">静安区政府</span>
+      <span class="content_2">崇明区教育局</span>
       <div class="title_1">
           <div class="title_header"></div>
           <div class="title_6" @click="$router.push({name: 'success'})">
- <img class="title_3" src="../../../static/image/down.png" alt="">
+ <img class="title_3" src="../../../static/image/right.png" alt="">
 
           <div class="title_2">
-              <span class="title_4">政府</span>
+              <span class="title_5">政府</span>
           </div>
           </div>
              
@@ -21,60 +21,64 @@
           </div>
           </div>
            <div class="title_6" @click="$router.push({name: 'success2'})">
- <img class="title_3" src="../../../static/image/right.png" alt="">
+ <img class="title_3" src="../../../static/image/right.png"  alt="">
 
           <div class="title_2">
               <span class="title_5">运营商</span>
           </div>
           </div>
            <div class="title_6" @click="$router.push({name: 'success3'})">
- <img class="title_3" src="../../../static/image/right.png" alt="">
+ <img class="title_3" src="../../../static/image/down.png"  alt="">
 
           <div class="title_2">
-              <span class="title_5">教育</span>
+              <span class="title_4">教育</span>
           </div>
           </div>
       </div>
       <div class="content_6">
         <span class="content_3">实施背景:</span>
         <div class="content_4"></div>
-        <p class="content_5">拥有主机约2000台，20多台服务器。</p>
-        <p class="content_5">由国内知名安全公司的专业维护团队进行网络安全及运行维护。</p>
+        <p class="content_5">教育部发文要求做好各中小学的安全工作。</p>
+        <p class="content_5">上海市教委要求各区教育局完成安全管理中心建设工作。</p>
+        <p class="content_5">某区教育局无专门安全管理信息系统。</p>
+        <p class="content_5">安全工作处理效率、管理手段、安全责任到位方面存在较多问题。</p>
+
       </div>
 
       <div class="content_6">
         <span class="content_3">项目目标</span>
         <div class="content_4"></div>
-
-        <p class="content_5">验证网络是否安全。是否存在僵尸网络病毒。</p>
-        <p class="content_5">如果存在病毒，提供相关杀毒软件进行查杀。</p>
+        <p class="content_5">安全管理工作信息化。安全资产、危险隐患动态管理。安全工作考核量化和科学化。</p>
+        <p class="content_5">良好的可扩充性，与已有系统对接。开放接口，方便后续建设安防系统接入，避免信息孤岛。</p>
       </div>
 
       <div class="content_6">
         <span class="content_3">系统上线</span>
         <div class="content_4"></div>
-
-        <p class="content_5">2013年1月上线当月即检测出约6%主机及1台DNS服务器已被木马/僵尸网络控制。证明网络存在安全风险。</p>
-        <p class="content_5">提供病毒验证及查杀工具，培训专业维护团队进行应急处置。快速消除木马/僵尸网络。</p>
+        <p class="content_5">实现安全管理工作相关公文流转、隐患上报、隐患处置工作闭环。</p>
+        <p class="content_5">日常安全巡检工作制度化，工作任务内容明确。使用移动APP执行巡检任务，数据上报及时。</p>
       </div>
 
       <div class="content_6">
         <span class="content_3">运行效果</span>
         <div class="content_4"></div>
 
-        <p class="content_5">本系统为维护团队提供了必要的技术手段，及时发现中毒机器，减少网络安全风险。</p>
-        <p class="content_5">系统一处部署，全网防护。操作简单，安全可靠，成本降低，效率提升优势明显。</p>
+                            
+
+                        
+        <p class="content_5">系统完成安全工作的分析统计，实现安全工作的智能预警及处理。</p>
+        <p class="content_5">基于地理信息的管理界面以及图形化统计界面，直观易懂，管理便捷高效。</p>
       </div>
 
       <span class="content_7">相关产品</span>
       <img class="content_8" src="../../../static/image/right1.png" alt="">
-    <span class="content_9">恶意代码防护系统</span>
+    <span class="content_9">安全管理平台</span>
     </div>
   </div>
 </template>
 <script>
 export default {
-  name: "success",
+  name: "success3",
   data() {
     return {};
   },
@@ -85,7 +89,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-.success {
+.success3 {
   // width: 100%;
   height: 1500px;
   background: #fbfbfb;

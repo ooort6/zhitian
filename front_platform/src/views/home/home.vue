@@ -80,7 +80,7 @@
           <img src="../../static/image/案例展示.png" data-src>
         </header>
         <content>
-          <article>
+          <article @click="$router.push({name: 'success'})">
             <div class="title">
               政府
               <p class="line"></p>
@@ -95,7 +95,7 @@
               </footer>
             </div>
           </article>
-          <article>
+          <article  @click="$router.push({name: 'success1'})">
             <div class="title">
               企业
               <p class="line"></p>
@@ -110,7 +110,7 @@
               </footer>
             </div>
           </article>
-          <article>
+          <article  @click="$router.push({name: 'success2'})">
             <div class="title">
               运营商
               <p class="line"></p>
@@ -125,7 +125,7 @@
               </footer>
             </div>
           </article>
-          <article>
+          <article  @click="$router.push({name: 'success3'})">
             <div class="title">
               教育
               <p class="line"></p>

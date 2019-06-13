@@ -1,23 +1,23 @@
 <template>
-  <div class="success">
+  <div class="success1">
     <img src="../../../static/image/cgal.jpg" alt>
     <div class="content_1" >
-      <span class="content_2">静安区政府</span>
+      <span class="content_2">上海信产通信服务有限公司</span>
       <div class="title_1">
           <div class="title_header"></div>
           <div class="title_6" @click="$router.push({name: 'success'})">
- <img class="title_3" src="../../../static/image/down.png" alt="">
+ <img class="title_3" src="../../../static/image/right.png" alt="">
 
           <div class="title_2">
-              <span class="title_4">政府</span>
+              <span class="title_5">政府</span>
           </div>
           </div>
              
           <div class="title_6" @click="$router.push({name: 'success1'})">
- <img class="title_3" src="../../../static/image/right.png" alt="">
+ <img class="title_3" src="../../../static/image/down.png" alt="">
 
           <div class="title_2">
-              <span class="title_5">企业</span>
+              <span class="title_4">企业</span>
           </div>
           </div>
            <div class="title_6" @click="$router.push({name: 'success2'})">
@@ -38,43 +38,55 @@
       <div class="content_6">
         <span class="content_3">实施背景:</span>
         <div class="content_4"></div>
-        <p class="content_5">拥有主机约2000台，20多台服务器。</p>
-        <p class="content_5">由国内知名安全公司的专业维护团队进行网络安全及运行维护。</p>
+        <p class="content_5"> 业务内容繁多，建立体验式营销场馆。</p>
+        <p class="content_5">为实现沉浸式业务体验场景，现场使用大量传感器、智能设备以及媒体播放设备。</p>
       </div>
 
       <div class="content_6">
         <span class="content_3">项目目标</span>
         <div class="content_4"></div>
 
-        <p class="content_5">验证网络是否安全。是否存在僵尸网络病毒。</p>
-        <p class="content_5">如果存在病毒，提供相关杀毒软件进行查杀。</p>
+                            
+
+                        
+        <p class="content_5">精简现场设备操作人员，体现运营商在IT技术领域的先进性。</p>
+        <p class="content_5">能根据业务体验者所属行业不同，快速调度全馆所有设备的内容。</p>
       </div>
 
       <div class="content_6">
         <span class="content_3">系统上线</span>
         <div class="content_4"></div>
 
-        <p class="content_5">2013年1月上线当月即检测出约6%主机及1台DNS服务器已被木马/僵尸网络控制。证明网络存在安全风险。</p>
-        <p class="content_5">提供病毒验证及查杀工具，培训专业维护团队进行应急处置。快速消除木马/僵尸网络。</p>
+                           
+
+                        
+        <p class="content_5"> 采用物联网、设备接口调用、嵌入式系统开发等，实现馆内全部电器设备统一接入及控制。实现全场一人操作。</p>
+        <p class="content_5">开发智能设备专用AGENT，采用服务器统一管理全部演示内容，实现全馆内容一键切换。</p>
       </div>
 
       <div class="content_6">
         <span class="content_3">运行效果</span>
         <div class="content_4"></div>
 
-        <p class="content_5">本系统为维护团队提供了必要的技术手段，及时发现中毒机器，减少网络安全风险。</p>
-        <p class="content_5">系统一处部署，全网防护。操作简单，安全可靠，成本降低，效率提升优势明显。</p>
+                            
+
+
+                        
+        <p class="content_5">系统运行稳定可靠，未出现过软件BUG导致系统控制失败的故障。</p>
+        <p class="content_5">系统良好的可扩展性，新设备类型可方便接入系统。</p>
+        <p class="content_5">降低系统操作维护成本，全馆近千台设备仅需一人操作。</p>
+
       </div>
 
       <span class="content_7">相关产品</span>
       <img class="content_8" src="../../../static/image/right1.png" alt="">
-    <span class="content_9">恶意代码防护系统</span>
+    <span class="content_9">综合控制系统</span>
     </div>
   </div>
 </template>
 <script>
 export default {
-  name: "success",
+  name: "success1",
   data() {
     return {};
   },
@@ -85,7 +97,7 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-.success {
+.success1 {
   // width: 100%;
   height: 1500px;
   background: #fbfbfb;
