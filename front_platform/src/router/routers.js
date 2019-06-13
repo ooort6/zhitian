@@ -46,6 +46,14 @@ export default [
       component: () =>import ('@/views/goodsList/programme/programme')
     },
     {
+      path: '/success',
+      name: 'success',
+      meta:{
+        title:'成功案例'
+      },
+      component: () =>import ('@/views/goodsList/success/success')
+    },
+    {
       path: '/cooperation',
       name: 'cooperation',
       meta:{

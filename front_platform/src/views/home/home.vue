@@ -88,7 +88,7 @@
             <div>
               <img src="../image/图层 226.png" alt="not find image">
               <footer>
-                <span>查看详情</span>
+                <span >查看详情</span>
                 <a href>
                   <img src="../image/查看详情2.png" alt="not find image">
                 </a>
@@ -112,7 +112,7 @@
           </article>
           <article>
             <div class="title">
-              金融
+              运营商
               <p class="line"></p>
             </div>
             <div>
@@ -508,7 +508,7 @@ export default {
 
   .case article {
     width: 280px;
-    height: 365px;
+    height: 375px;
     margin-right: 15px;
     padding: 0 15px 15px 15px;
     float: left;
@@ -554,10 +554,12 @@ export default {
 
   .case article footer {
     width: 245px;
-    height: 25px;
+    height: 36px;
     line-height: 15px;
     margin-top: 11px;
-    padding: 4px;
+    padding-top: 8px;
+    padding-left: 5px;
+    padding-right: 5px;
     background: rgba(23, 42, 136, 1);
   }
 

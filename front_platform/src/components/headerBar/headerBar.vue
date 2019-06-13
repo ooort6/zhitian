@@ -19,7 +19,7 @@
             <!-- </div> -->
           
             <div class="nav">
-               <Menu mode="horizontal" :theme="'light'" :active-name="$route.name">
+               <Menu mode="horizontal" :theme="'light'" >
                     <MenuItem class="nav-item" name="home" :to="{name:'home'}" >
                         <!-- <Icon type="ios-paper" /> -->
                         首页
@@ -29,7 +29,7 @@
                     产品与解决方案
                     
                     </MenuItem>
-                    <MenuItem class="nav-item" name="home" :to="{name:'home'}">
+                    <MenuItem class="nav-item" name="success" :to="{name:'success'}">
                         <!-- <Icon type="ios-people" /> -->
                         成功案例
                     </MenuItem>
@@ -85,6 +85,8 @@ export default {
     border-bottom: 1px solid #eee;
     z-index: 999;
     box-sizing: border-box;
+    box-shadow:0px 5px 5px 0px rgba(200,200,200,0.4);
+
     .layout{
         overflow: hidden;
         width: 1240px;
@@ -171,6 +173,15 @@ export default {
            display: block;
             margin-right: 13px;
         }
+          .nav-item .ivu-menu-item .ivu-menu-item-active .ivu-menu-item-selected{
+          border-bottom:none;
+
+      }
+      .ivu-menu-light.ivu-menu-horizontal .ivu-menu-item-active, .ivu-menu-light.ivu-menu-horizontal .ivu-menu-item:hover, .ivu-menu-light.ivu-menu-horizontal .ivu-menu-submenu-active, .ivu-menu-light.ivu-menu-horizontal .ivu-menu-submenu:hover{
+          color: #2d8cf0;
+          border-bottom:1px solid #2d8cf0; 
+
+      }
     }
 }
 </style>

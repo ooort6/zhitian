@@ -44,7 +44,7 @@
         <Col span="9" offset="3" style="margin-left:15%">
             <Card  class="card1" shadow>
                 <p style="font-family:PingFang-SC-Bold;font-size:30px;color:#172A88;margin-bottom:20px;text-align:center;">成为销售合作伙伴</p>
-             <p style="color:#535353;font-size:18px; font-family:PingFang-SC-Regular;line-height:25px; ">深信服渠道化市场战略以及全方位的渠道体系支持,期待与您携手
+             <p style="color:#535353;font-size:18px; font-family:PingFang-SC-Regular;line-height:25px; ">智天渠道化市场战略以及全方位的渠道体系支持,期待与您携手
                         </p>
              <Button class="btn" style="color:#172A88;margin-top:10%;" >立即申请</Button>
              <!-- <Button style="background:#1D2088;color:#f6f6f6;margin-top:15%;" >立即申请</Button> -->
@@ -54,8 +54,8 @@
         </Col>
         <Col span="9" >
          <Card  class="card1" shadow>
-                <p style="font-family:PingFang-SC-Bold;font-size:30px;color:#172A88;text-align:center;margin-bottom:20px;">成为销售合作伙伴</p>
-             <p style="color:#535353;font-size:18px; font-family:PingFang-SC-Regular;line-height:25px ">深信服渠道化市场战略以及全方位的渠道体系支持,期待与您携手
+                <p style="font-family:PingFang-SC-Bold;font-size:30px;color:#172A88;text-align:center;margin-bottom:20px;">成为供应合作伙伴</p>
+             <p style="color:#535353;font-size:18px; font-family:PingFang-SC-Regular;line-height:25px ">致力于建设高效、互利共赢的供应商协作体系，与您共谋行业发展
                         </p>
              <Button style="color:#172A88;margin-top:10%;" >立即申请</Button>
 
