@@ -7,8 +7,9 @@ import iview from 'iview'
 import Vuex from 'vuex'
 import 'iview/dist/styles/iview.css';
 import axios from 'axios'
+import './assets/js/main.js'
 
-
+// import './assets/css/main.css'
 
 axios.defaults.withCredentials = true;
 Vue.prototype.$axios = axios;

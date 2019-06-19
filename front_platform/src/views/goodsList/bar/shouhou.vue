@@ -41,7 +41,7 @@
       合作伙伴
     </span>
     <Row  style="margin-top:50px;">
-        <Col span="9" offset="3" style="margin-left:15%">
+        <Col span="9" offset="3" style="margin-left:294px">
             <Card  class="card1" shadow>
                 <p style="font-family:PingFang-SC-Bold;font-size:30px;color:#172A88;margin-bottom:20px;text-align:center;">成为销售合作伙伴</p>
              <p style="color:#535353;font-size:18px; font-family:PingFang-SC-Regular;line-height:25px; ">智天渠道化市场战略以及全方位的渠道体系支持,期待与您携手

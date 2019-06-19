@@ -96,9 +96,9 @@ export default {
           float: left;
           line-height: 69px;
           img{
-            height: 69px;
-            width: 195px;
-            // margin-left: 100px;
+            height: 55.2px;
+            width: 156px;
+            margin-top: 10px;
             display: block;
             &:hover{
             transition: all 0.8s linear;

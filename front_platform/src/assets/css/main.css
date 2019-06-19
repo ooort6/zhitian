@@ -1,0 +1,15 @@
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .layout {width: 8.33%;}
+    .layout {width: 16.66%;}
+    .layout {width: 25%;}
+    .layout {width: 33.33%;}
+    .layout {width: 41.66%;}
+    .layout {width: 50%;}
+    .layout {width: 58.33%;}
+    .layout{width: 66.66%;}
+    .layout {width: 75%;}
+    .layout{width: 83.33%;}
+    .layout {width: 91.66%;}
+    .layout {width: 100%;}
+}

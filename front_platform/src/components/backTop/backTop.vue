@@ -24,7 +24,7 @@
         style=" position: absolute;top: 40%;left: 50%;transform: translate(-50%, -50%);"
         alt
       >
-      <span style="color:#333333;font-size:1px;display:block; margin-top:70%">
+      <span style="color:#333333;display:block; margin-top:70%">
         售前咨询
       </span>
     </div>
@@ -34,7 +34,7 @@
         style=" position: absolute;top: 40%;left: 50%;transform: translate(-50%, -50%);"
         alt
       >
-      <span style="color:#333333;font-size:1px;display:block; margin-top:70%">
+      <span style="color:#333333;display:block; margin-top:70%">
         售后咨询
       </span>
     </div>
@@ -44,7 +44,7 @@
         style=" position: absolute;top: 40%;left: 50%;transform: translate(-50%, -50%);"
         alt
       >
-      <span style="color:#333333;font-size:1px;display:block; margin-top:70%">
+      <span style="color:#333333;display:block; margin-top:70%">
         申请合作
       </span>
     </div>
@@ -54,7 +54,7 @@
         style=" position: absolute;top: 40%;left: 50%;transform: translate(-50%, -50%);"
         alt
       >
-      <span style="color:#333333;font-size:1px;display:block; margin-top:70%">
+      <span style="color:#333333;display:block; margin-top:70%">
         资料中心
       </span>
     </div>
@@ -66,7 +66,7 @@
         style=" position: absolute;top: 40%;left: 50%;transform: translate(-50%, -50%);"
         alt
       >
-      <span style="color:#333333;font-size:1px;display:block; margin-top:70%">
+      <span style="color:#333333;display:block; margin-top:70%">
         联系我们
       </span>
     </div>
